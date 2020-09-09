@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">qwooda2_project1</string>
+    <string name="button">button</string>
+    <string name="button2">button2</string>
+    <string name="welcome_new_user">Welcome New User</string>
+    <string name="input_name">Input Name</string>
+    <string name="user_Input"> Enter your first name</string>
+</resources>
